@@ -1,0 +1,38 @@
+C:\Users\nicol\OneDrive\Documentos\Faculdade bambui\7º periodo\Paradigmas de programação\lista_telefonica\bin\Debug\net8.0-windows\lista_telefonica.exe
+C:\Users\nicol\OneDrive\Documentos\Faculdade bambui\7º periodo\Paradigmas de programação\lista_telefonica\bin\Debug\net8.0-windows\lista_telefonica.deps.json
+C:\Users\nicol\OneDrive\Documentos\Faculdade bambui\7º periodo\Paradigmas de programação\lista_telefonica\bin\Debug\net8.0-windows\lista_telefonica.runtimeconfig.json
+C:\Users\nicol\OneDrive\Documentos\Faculdade bambui\7º periodo\Paradigmas de programação\lista_telefonica\bin\Debug\net8.0-windows\lista_telefonica.dll
+C:\Users\nicol\OneDrive\Documentos\Faculdade bambui\7º periodo\Paradigmas de programação\lista_telefonica\bin\Debug\net8.0-windows\lista_telefonica.pdb
+C:\Users\nicol\OneDrive\Documentos\Faculdade bambui\7º periodo\Paradigmas de programação\lista_telefonica\obj\Debug\net8.0-windows\lista_telefonica.Form1.resources
+C:\Users\nicol\OneDrive\Documentos\Faculdade bambui\7º periodo\Paradigmas de programação\lista_telefonica\obj\Debug\net8.0-windows\lista_telefonica.vbproj.GenerateResource.cache
+C:\Users\nicol\OneDrive\Documentos\Faculdade bambui\7º periodo\Paradigmas de programação\lista_telefonica\obj\Debug\net8.0-windows\lista_telefonica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\OneDrive\Documentos\Faculdade bambui\7º periodo\Paradigmas de programação\lista_telefonica\obj\Debug\net8.0-windows\lista_telefonica.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive\Documentos\Faculdade bambui\7º periodo\Paradigmas de programação\lista_telefonica\obj\Debug\net8.0-windows\lista_telefonica.AssemblyInfo.vb
+C:\Users\nicol\OneDrive\Documentos\Faculdade bambui\7º periodo\Paradigmas de programação\lista_telefonica\obj\Debug\net8.0-windows\lista_telefonica.vbproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Documentos\Faculdade bambui\7º periodo\Paradigmas de programação\lista_telefonica\obj\Debug\net8.0-windows\lista_telefonica.dll
+C:\Users\nicol\OneDrive\Documentos\Faculdade bambui\7º periodo\Paradigmas de programação\lista_telefonica\obj\Debug\net8.0-windows\refint\lista_telefonica.dll
+C:\Users\nicol\OneDrive\Documentos\Faculdade bambui\7º periodo\Paradigmas de programação\lista_telefonica\obj\Debug\net8.0-windows\lista_telefonica.pdb
+C:\Users\nicol\OneDrive\Documentos\Faculdade bambui\7º periodo\Paradigmas de programação\lista_telefonica\obj\Debug\net8.0-windows\lista_telefonica.genruntimeconfig.cache
+C:\Users\nicol\OneDrive\Documentos\Faculdade bambui\7º periodo\Paradigmas de programação\lista_telefonica\obj\Debug\net8.0-windows\ref\lista_telefonica.dll
+C:\Users\nicol\OneDrive\Documentos\FaculdadeBambui\7º periodo\Paradigmas de programação\lista_telefonica\bin\Debug\net8.0-windows\lista_telefonica.exe
+C:\Users\nicol\OneDrive\Documentos\FaculdadeBambui\7º periodo\Paradigmas de programação\lista_telefonica\bin\Debug\net8.0-windows\lista_telefonica.deps.json
+C:\Users\nicol\OneDrive\Documentos\FaculdadeBambui\7º periodo\Paradigmas de programação\lista_telefonica\bin\Debug\net8.0-windows\lista_telefonica.runtimeconfig.json
+C:\Users\nicol\OneDrive\Documentos\FaculdadeBambui\7º periodo\Paradigmas de programação\lista_telefonica\bin\Debug\net8.0-windows\lista_telefonica.dll
+C:\Users\nicol\OneDrive\Documentos\FaculdadeBambui\7º periodo\Paradigmas de programação\lista_telefonica\bin\Debug\net8.0-windows\lista_telefonica.pdb
+C:\Users\nicol\OneDrive\Documentos\FaculdadeBambui\7º periodo\Paradigmas de programação\lista_telefonica\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nicol\OneDrive\Documentos\FaculdadeBambui\7º periodo\Paradigmas de programação\lista_telefonica\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nicol\OneDrive\Documentos\FaculdadeBambui\7º periodo\Paradigmas de programação\lista_telefonica\bin\Debug\net8.0-windows\Npgsql.dll
+C:\Users\nicol\OneDrive\Documentos\FaculdadeBambui\7º periodo\Paradigmas de programação\lista_telefonica\obj\Debug\net8.0-windows\lista_telefonica.vbproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive\Documentos\FaculdadeBambui\7º periodo\Paradigmas de programação\lista_telefonica\obj\Debug\net8.0-windows\lista_telefonica.Form1.resources
+C:\Users\nicol\OneDrive\Documentos\FaculdadeBambui\7º periodo\Paradigmas de programação\lista_telefonica\obj\Debug\net8.0-windows\lista_telefonica.vbproj.GenerateResource.cache
+C:\Users\nicol\OneDrive\Documentos\FaculdadeBambui\7º periodo\Paradigmas de programação\lista_telefonica\obj\Debug\net8.0-windows\lista_telefonica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\OneDrive\Documentos\FaculdadeBambui\7º periodo\Paradigmas de programação\lista_telefonica\obj\Debug\net8.0-windows\lista_telefonica.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive\Documentos\FaculdadeBambui\7º periodo\Paradigmas de programação\lista_telefonica\obj\Debug\net8.0-windows\lista_telefonica.AssemblyInfo.vb
+C:\Users\nicol\OneDrive\Documentos\FaculdadeBambui\7º periodo\Paradigmas de programação\lista_telefonica\obj\Debug\net8.0-windows\lista_telefonica.vbproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Documentos\FaculdadeBambui\7º periodo\Paradigmas de programação\lista_telefonica\obj\Debug\net8.0-windows\lista_te.1A982CE1.Up2Date
+C:\Users\nicol\OneDrive\Documentos\FaculdadeBambui\7º periodo\Paradigmas de programação\lista_telefonica\obj\Debug\net8.0-windows\lista_telefonica.dll
+C:\Users\nicol\OneDrive\Documentos\FaculdadeBambui\7º periodo\Paradigmas de programação\lista_telefonica\obj\Debug\net8.0-windows\refint\lista_telefonica.dll
+C:\Users\nicol\OneDrive\Documentos\FaculdadeBambui\7º periodo\Paradigmas de programação\lista_telefonica\obj\Debug\net8.0-windows\lista_telefonica.pdb
+C:\Users\nicol\OneDrive\Documentos\FaculdadeBambui\7º periodo\Paradigmas de programação\lista_telefonica\obj\Debug\net8.0-windows\lista_telefonica.genruntimeconfig.cache
+C:\Users\nicol\OneDrive\Documentos\FaculdadeBambui\7º periodo\Paradigmas de programação\lista_telefonica\obj\Debug\net8.0-windows\ref\lista_telefonica.dll
+C:\Users\nicol\OneDrive\Documentos\FaculdadeBambui\7º periodo\Paradigmas de programação\lista_telefonica\obj\Debug\net8.0-windows\lista_telefonica.Form2.resources
