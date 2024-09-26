@@ -1,6 +1,6 @@
 # Lista de Contatos em Visual Basic com Conexão ao PostgreSQL
 
-#Português
+# Português
 
 Este projeto é uma aplicação de lista de contatos desenvolvida em **Visual Basic (VB.NET)** que se conecta ao banco de dados **PostgreSQL** para armazenar, gerenciar e manipular informações de contatos. O sistema oferece funcionalidades completas de CRUD (Create, Read, Update, Delete) para gerenciar contatos, como adicionar, editar, excluir e visualizar dados.
 
@@ -42,7 +42,7 @@ No código, a string de conexão com o banco de dados PostgreSQL deve ser config
 ```vb
 Dim connString As String = "Host=localhost;Port=5432;Username=seu_usuario;Password=sua_senha;Database=contatosdb"
 ```
-#English
+# English
 
 # Contact List in Visual Basic with PostgreSQL Connection
 
