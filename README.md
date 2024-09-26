@@ -42,9 +42,10 @@ No código, a string de conexão com o banco de dados PostgreSQL deve ser config
 ```vb
 Dim connString As String = "Host=localhost;Port=5432;Username=seu_usuario;Password=sua_senha;Database=contatosdb"
 ```
-# English
 
 # Contact List in Visual Basic with PostgreSQL Connection
+
+# English
 
 This project is a contact list application developed in **Visual Basic (VB.NET)**, connected to a **PostgreSQL** database to store, manage, and manipulate contact information. The system provides full CRUD (Create, Read, Update, Delete) functionalities to manage contacts, such as adding, editing, deleting, and viewing data.
 
