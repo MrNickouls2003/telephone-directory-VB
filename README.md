@@ -9,8 +9,6 @@ Este projeto é uma aplicação de lista de contatos desenvolvida em **Visual Ba
 - **Adicionar Contato**: Permite ao usuário inserir um novo contato na base de dados.
 - **Editar Contato**: Permite ao usuário atualizar as informações de um contato existente (nome, telefone, e-mail e endereço).
 - **Excluir Contato**: Remove um contato da base de dados.
-- **Listar Contatos**: Exibe todos os contatos registrados.
-- **Pesquisar Contato**: Permite ao usuário buscar um contato pelo nome.
 
 ## Estrutura da Base de Dados
 
@@ -54,9 +52,7 @@ This project is a contact list application developed in **Visual Basic (VB.NET)*
 - **Add Contact**: Allows the user to insert a new contact into the database.
 - **Edit Contact**: Allows the user to update the information of an existing contact (name, phone, email, and address).
 - **Delete Contact**: Removes a contact from the database.
-- **List Contacts**: Displays all registered contacts.
-- **Search Contact**: Allows the user to search for a contact by name.
-
+  
 ## Database Structure
 
 The database used is **PostgreSQL**, and it contains a table called `contacts` with the following fields:
